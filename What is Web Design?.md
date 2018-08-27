@@ -1,0 +1,9 @@
+# What is Web Design?
+ ## *The basic idea.*
+  Web Design on the surface is about, well, disigning a website with HTML and CSS, along with any other code or software you would use. Breaking it down, Web Design is combining two concepts, computer science and design. Combinging these two, you will be able to design websites, and basically anything else relating to code.
+ ## *Web Design is more than just code.*
+  When we design websites, we aren't just looking at code and deciding "Yeah, this looks alright.". We have to look at what the code does, and the final product. This applies to everything as well not just Web Design. Whenever you do something, you're looking at what you've done and what it looks like currently. And when you're done it should hopefully look like what you had in your ind when you decided to create it in the first place. If it doesn't look like that, you have to go back and change some stuff.
+ ## *Web Design helps you learn more than just web design.*
+  When you design a website or do anything else in Web Design, you are doing two things; you're learning how to design something and make it your own and creative, and you're learning how to code, and general Computer Science. If you decide to get a job in designing a company's website, you have to understand design and computer science. Now, you could also just be assigned the design role, working mostly with CSS and your brain to decorate the website and make it its own. You could also get a job with just making the website and making sure it works, where you will work mostly with HTML and/or any software the company is using to help with the creation of the website. You can also have jobs unrelated to Web Design because of skills you have in Web Design, like a computer science job or art.
+ 
+**So yeah, if you were ever wondering what Web Design was about, that's it. From design and computer science, you can do a lot, and not just with the web.**
