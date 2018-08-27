@@ -9,8 +9,8 @@ Hi
 
 [Syllabus](sylabus.md)
 
-[Course Description](coursedescription.md)
+[Course Description](course_description.md)
 
-[What is Web Design?](WhatisWebDesign?.md)
+[What is Web Design?](What_is_Web_Design?.md)
 
-[People of Interest](PeopleofInterest.md)
+[People of Interest](People_of_Interest.md)
