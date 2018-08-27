@@ -9,7 +9,7 @@ Hi
 
 [Syllabus](sylabus.md)
 
-[Course Description](course_description.md)
+[Course Description](course_descrption.md)
 
 [What is Web Design?](What_is_Web_Design?.md)
 
