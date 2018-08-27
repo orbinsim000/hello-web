@@ -7,5 +7,3 @@ Hi
 
 :100: :100: :100:
 
-syllabus.md
-course description.md
