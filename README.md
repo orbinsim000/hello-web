@@ -1,7 +1,7 @@
 # hello-web
 My Web Design homepage on GitHub
 
-## Links
+## Files
 
 [Syllabus](sylabus.md)
 
