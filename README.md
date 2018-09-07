@@ -1,7 +1,7 @@
 # hello-web
-A beginning repository for Web Design
+My Web Design homepage on GitHub
 
->*I* **really** **_like_** ~~markdown *tags* **a _lot_**~~
+## Links
 
 [Syllabus](sylabus.md)
 
