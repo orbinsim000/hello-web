@@ -1,7 +1,7 @@
 # hello-web
 A beginning repository for Web Design
 
->*I* **really** **_like_** ~~markdown~~ *~~tags~~* **~~a~~** **_~~lot~~_**
+>*I* **really** **_like_** ~~markdown *tags* **a _lot_**~~
 
 [Syllabus](sylabus.md)
 
