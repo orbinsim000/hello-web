@@ -9,3 +9,5 @@
 [Vint Cerf Britannica](https://www.britannica.com/biography/Vinton-Cerf)
 ## Vannevar Bush
 [Vannevar Bush Britannica](https://www.britannica.com/biography/Vannevar-Bush)
+## Mark Andreessen
+[Mark Andreessen Biography](https://www.biography.com/people/marc-andreessen-9542208)
